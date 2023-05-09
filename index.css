@@ -1,0 +1,96 @@
+.container {
+    height: 96vh;
+    width: 96vw;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: white;
+    justify-content: space-between;
+}
+
+.one {
+    height: 30%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: blue;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+}
+
+.red {
+
+    height: 80%;
+    width: 40%;
+    background-color: red;
+
+}
+
+.yellow {
+
+    height: 80%;
+    width: 40%;
+    background-color: yellow;
+
+}
+
+.two {
+    height: 30%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: red;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+
+.green {
+    height:26%;
+    width:90%;
+    background-color: green;
+
+}
+
+.orange {
+    height:26%;
+    width:90%;
+    background-color: orange;
+}
+
+.dark-green {
+    height:26%;
+    width:90%;
+    background-color: darkgreen;
+}
+
+.three {
+    height: 30%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: orange;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.grey{
+    height:90%;
+    width:60%;
+    background-color: grey;
+
+}
+.blue{
+    height:90%;
+    width:30%;
+    background-color: skyblue;
+
+}
